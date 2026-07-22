@@ -104,7 +104,7 @@ A community content pack for **Hytale**, expanding gameplay with custom food ite
 - 🌐 Portfolio: https://yourportfolio.com //added soon
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN //added soon
 - 🎮 CurseForge: https://www.curseforge.com/members/SNIP3H4X
-- 💬 Discord: SNIP3H4X
+- 💬 Discord: @SNIP3H4X
 - 📧 Email: SNIP3H4X@hotmail.com
 
 ---
