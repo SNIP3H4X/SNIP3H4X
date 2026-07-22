@@ -1,120 +1,144 @@
 <div align="center">
 
-# 👋 Hey, I'm Jonathan Berglund
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header" width="100%"/>
 
-### Junior Full-Stack Developer | Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF9C&background=000000&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING...;USER%3A+JONATHAN_BERGLUND;ROLE%3A+FULL-STACK+DEVELOPER;STATUS%3A+CONNECTED+TO+THE+WIRED;PRESENT+DAY...+PRESENT+TIME..." alt="Typing SVG" />
 
-Building modern software with a passion for clean architecture, great user experiences, and continuous learning.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=footer" width="100%"/>
 
+</div>
+
+<br>
+
+<div align="center">
+<pre>
+[ SYSTEM LOG // NODE: JONATHAN_BERGLUND ]
+[ LOCATION: SWEDEN ]
+[ CLASS: JUNIOR FULL-STACK DEVELOPER ]
+</pre>
 </div>
 
 ---
 
-## 🚀 About Me
+## `> ABOUT.exe`
 
-I'm a **Junior Full-Stack Developer** from **Sweden** who enjoys building software across multiple platforms and technologies. Whether it's developing web applications, desktop software, games, or designing scalable cloud solutions, I enjoy turning ideas into real, functional products.
+<pre>root@wired:~$ whoami</pre>
 
-### 💡 I enjoy working with
+A **Junior Full-Stack Developer** connected from Sweden, building software across web, desktop, games, and cloud. Every layer I write, I write with intent — clean architecture, real user experiences, no noise.
 
-- 🌐 Web Applications
-- 🖥️ Windows/Desktop Applications
-- 🎮 Game Development
-- 🏗️ Software Architecture
-- 🎨 UI/UX Design
-- ☁️ Cloud Solutions
-- 🔌 REST APIs & Backend Systems
-- 📦 Database Design
-- ⚡ Modern Frontend Development
+### `> PROCESSES_RUNNING`
+
+- `web_applications.dll`
+- `desktop_apps.exe`
+- `game_dev.bin`
+- `software_architecture.sys`
+- `ui_ux_design.dat`
+- `cloud_solutions.net`
+- `rest_apis.sock`
+- `database_design.db`
+- `frontend_modern.js`
 
 ---
 
-## 🛠 Tech Stack
+## `> TECH_STACK.log`
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,php,py" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,php,py&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel&theme=dark" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 </p>
 
-**Also working with**
-
-- Alpine.js
-- REST APIs
+**Also compiled into memory:**
+- `alpine.js`
+- `rest_apis`
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-### Tools & Platforms
+### Tools & Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot&theme=dark" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## `> LEARNING.tmp`
 
-- 🎮 Godot & GDScript
-- 🅰️ Angular
-- 🐘 Advanced PHP
-- ⚙️ Advanced ASP.NET Core
-- ⚛️ Advanced React Patterns
-- 🏗️ Software Architecture & Design Patterns
-- 🐳 Docker
-- ☁️ Azure & Cloud Services
-- 🚀 CI/CD
+<pre>root@wired:~$ cat currently_learning.txt</pre>
+
+- `godot_gdscript.gd`
+- `angular.ts`
+- `advanced_php.php`
+- `advanced_aspnet_core.cs`
+- `advanced_react_patterns.jsx`
+- `software_architecture_patterns.md`
+- `docker.yml`
+- `azure_cloud.json`
+- `ci_cd.pipeline`
 
 ---
 
-## 🚀 Featured Project
+## `> FEATURED_PROJECT.dat`
 
-### 🍎 Snip3's Food Pack
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=100&section=header&text=Snip3's%20Food%20Pack&fontColor=00FF9C&fontSize=30&animation=fadeIn" width="100%"/>
+
+</div>
 
 A community content pack for **Hytale**, expanding gameplay with custom food items and new mechanics.
 
-🔗 https://www.curseforge.com/hytale/mods/snip3s-food-pack
+🔗 `[LINK]` [https://www.curseforge.com/hytale/mods/snip3s-food-pack](https://www.curseforge.com/hytale/mods/snip3s-food-pack)
 
 ---
 
-## 🔥 GitHub Streak
+## `> UPTIME.stats`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SNIP3H4X&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SNIP3H4X&theme=dark&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&sideNums=00FF9C&dates=888888" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## `> CONNECT.sh`
 
-- 🌐 Portfolio: https://yourportfolio.com //added soon
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN //added soon
-- 🎮 CurseForge: https://www.curseforge.com/members/SNIP3H4X
-- 💬 Discord: @SNIP3H4X
-- 📧 Email: SNIP3H4X@hotmail.com
+<pre>root@wired:~$ ./connect --all</pre>
+
+- 🌐 Portfolio: `[COMING SOON]` [https://yourportfolio.com](https://yourportfolio.com)
+- 💼 LinkedIn: `[COMING SOON]` [https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- 🎮 CurseForge: [https://www.curseforge.com/members/SNIP3H4X](https://www.curseforge.com/members/SNIP3H4X)
+- 💬 Discord: `@SNIP3H4X`
+- 📧 Email: [SNIP3H4X@hotmail.com](mailto:SNIP3H4X@hotmail.com)
 
 ---
 
 <div align="center">
+<pre>[ PHILOSOPHY.log ]</pre>
 
-### 💭 Philosophy
+> *"Good software isn't just code — it's thoughtful design, solid architecture, and a great user experience."*
 
-> *"Good software isn't just code—it's thoughtful design, solid architecture, and a great user experience."*
+<pre>
+root@wired:~$ exit
+[ CONNECTION TERMINATED ]
+[ THANKS FOR VISITING ]
+</pre>
 
-Thanks for visiting my profile! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
