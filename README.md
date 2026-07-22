@@ -1,71 +1,129 @@
-# 👋 Hi, I'm Jonathan Berglund
+<div align="center">
 
-### 💻 Junior Full-Stack Developer
+# 👋 Hey, I'm Jonathan Berglund
 
-I'm a passionate **Junior Full-Stack Developer** who enjoys building modern, user-friendly web applications. I love learning new technologies, solving problems, and continuously improving my skills across both frontend and backend development.
+### Junior Full-Stack Developer | Software Developer
+
+Building modern software with a passion for clean architecture, great user experiences, and continuous learning.
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
-- C#
-- JavaScript
-- PHP
-- Python
+I'm a **Junior Full-Stack Developer** from **Sweden** who enjoys building software across multiple platforms and technologies. Whether it's developing web applications, desktop software, games, or designing scalable cloud solutions, I enjoy turning ideas into real, functional products.
 
-### 🛠 Frameworks & Libraries
-- .NET
-- React
-- Node.js
-- Laravel
+### 💡 I enjoy working with
+
+- 🌐 Web Applications
+- 🖥️ Windows/Desktop Applications
+- 🎮 Game Development
+- 🏗️ Software Architecture
+- 🎨 UI/UX Design
+- ☁️ Cloud Solutions
+- 🔌 REST APIs & Backend Systems
+- 📦 Database Design
+- ⚡ Modern Frontend Development
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,php,py" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+**Also working with**
+
 - Alpine.js
-
-### 🗄 Databases
-- SQL
-
-### 🔧 Tools
-- Git & GitHub
-- Visual Studio
-- Visual Studio Code
 - REST APIs
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced .NET development
-- React best practices
-- Clean Architecture
-- Cloud technologies
-- DevOps fundamentals
-- Godot Game development
+- 🎮 Godot & GDScript
+- 🅰️ Angular
+- 🐘 Advanced PHP
+- ⚙️ Advanced ASP.NET Core
+- ⚛️ Advanced React Patterns
+- 🏗️ Software Architecture & Design Patterns
+- 🐳 Docker
+- ☁️ Azure & Cloud Services
+- 🚀 CI/CD
 
 ---
 
-## 🎯 Goals
+## 🚀 Featured Project
 
-- 🚀 Grow into a professional Full-Stack Developer
-- 📚 Keep learning new technologies
-- 🤝 Contribute to open-source projects
-- 💡 Build scalable and maintainable applications
+### 🍎 Snip3's Food Pack
+
+A community content pack for **Hytale**, expanding gameplay with custom food items and new mechanics.
+
+🔗 https://www.curseforge.com/hytale/mods/snip3s-food-pack
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-- Full-stack web development
-- Backend development with .NET & Laravel
-- Modern frontend development with React
-- Writing clean and maintainable code
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SNIP3H4X&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNIP3H4X&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SNIP3H4X&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
+- 🌐 Portfolio: https://yourportfolio.com //added soon
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN //added soon
+- 🎮 CurseForge: https://www.curseforge.com/members/SNIP3H4X
+- 💬 Discord: SNIP3H4X
+- 📧 Email: SNIP3H4X@hotmail.com
 
 ---
 
-> *"Always learning. Always building."* 🚀
+<div align="center">
+
+### 💭 Philosophy
+
+> *"Good software isn't just code—it's thoughtful design, solid architecture, and a great user experience."*
+
+Thanks for visiting my profile! ⭐
+
+</div>
