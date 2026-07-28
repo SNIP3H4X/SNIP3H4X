@@ -45,35 +45,31 @@ A **Junior Full-Stack Developer** connected from Sweden, building software acros
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,php,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,js,php,py,dart&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel,electron,flutter&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,alpinejs&theme=dark" />
 </p>
-
-**Also compiled into memory:**
-- `alpine.js`
-- `rest_apis`
 
 ### Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot,gitlab&theme=dark" />
 </p>
 
 ---
@@ -110,7 +106,11 @@ A community content pack for **Hytale**, expanding gameplay with custom food ite
 
 ## `> UPTIME.stats`
 
+<div align="center">  
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SNIP3H4X&theme=dark&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&sideNums=00FF9C&dates=888888)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
