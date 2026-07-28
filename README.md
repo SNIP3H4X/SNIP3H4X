@@ -110,8 +110,7 @@ A community content pack for **Hytale**, expanding gameplay with custom food ite
 
 ## `> UPTIME.stats`
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=SNIP3H4X&theme=dark&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&sideNums=00FF9C&dates=888888" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SNIP3H4X&theme=dark&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&sideNums=00FF9C&dates=888888)](https://git.io/streak-stats)
 
 ---
 
