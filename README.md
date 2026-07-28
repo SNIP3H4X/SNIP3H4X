@@ -44,32 +44,38 @@ A **Junior Full-Stack Developer** connected from Sweden, building software acros
 
 ### Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,js,php,py,dart&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,laravel,electron,flutter&theme=dark" />
 </p>
 
 ### Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,alpinejs&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,alpinejs,vite&theme=dark" />
 </p>
 
 ### Databases
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### Tools & Environment
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot,gitlab&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,azure,godot,gitlab,wordpress&theme=dark" />
+</p>
+
+### Other
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=photoshop,premiere,ubuntu,blender,discordbots,markdown&theme=dark" />
 </p>
 
 ---
