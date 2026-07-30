@@ -100,7 +100,7 @@ A **Junior Full-Stack Developer** connected from Sweden, building software acros
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=100&section=header&text=[Snip3's]%20Food%20Pack&fontColor=00FF9C&fontSize=30&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=100&section=header&text=[SNIP3's]%20Food%20Pack&fontColor=00FF9C&fontSize=30&animation=fadeIn" width="100%"/>
 
 </div>
 
