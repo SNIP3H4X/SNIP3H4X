@@ -135,7 +135,7 @@ A community content pack for **Hytale**, expanding gameplay with custom food ite
 <div align="center">
 <pre>[ PHILOSOPHY.log ]</pre>
 
-> *"Good software isn't just code — it's thoughtful design, solid architecture, and a great user experience."*
+*"Good software isn't just code — it's thoughtful design, solid architecture, and a great user experience."*
 
 <pre>
 root@wired:~$ exit
